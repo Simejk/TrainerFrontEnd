@@ -1,0 +1,38 @@
+TASKS DEFINED ON MOODLE:
+
+TASK 1
+-------
+
+"Create pages to list customers and trainings
+List pages should contain following features:"
+
+- Sorting for customers    --DONE
+- Searching for customers  --DONE
+
+- Sorting for trainings    --DONE
+- Searching for trainings  --DONE
+TASK 1: 4/4
+
+Extra(?): Navigator/router --DONE
+
+
+TASK 2
+------
+
+"Add following CRUD functions to list pages:"
+
+- Add new Customer   --DONE
+- Delete existing customer (Add also yes/no confirmation dialog)  --DONE
+
+- Add training to customer --NOT DONE/PARTIALLY DONE, DOESN'T WORK
+- Delete training (Add also yes/no confirmation dialog) --DONE
+
+TASKS 2: 3/4
+
+TASK 3
+------
+
+"Add calendar page where user can see trainings (monthly, weekly, daily):"
+--DONE
+
+PROBLEM: Ending times don't display correctly in the calendar, otherwise it works perfectly.
